@@ -1,0 +1,30 @@
+{
+    "": {
+        "pin": "",
+        "balance": 0,
+        "history": [],
+        "is_active": true
+    },
+    "Saachin Kunwar": {
+        "pin": "1234",
+        "balance": 41000.0,
+        "history": [
+            "Deposited Rs.50000.0 at 2026-05-28 19:56:06",
+            "Withdrawn Rs.10000.0 at 2026-05-28 19:56:17",
+            "Withdrawn Rs.5000.0 at 2026-05-28 20:31:00",
+            "Deposited Rs.5000.0 at 2026-05-28 20:51:34",
+            "Received Rs.1000.0 from Manish at 2026-05-31 19:59:10"
+        ],
+        "is_active": true
+    },
+    "Manish": {
+        "pin": "1111",
+        "balance": 48500.0,
+        "history": [
+            "Deposited Rs.50000.0 at 2026-05-31 19:58:43",
+            "Withdrawn Rs.500.0 at 2026-05-31 19:58:51",
+            "Sent Rs.1000.0 to Saachin Kunwar at 2026-05-31 19:59:10"
+        ],
+        "is_active": true
+    }
+}
